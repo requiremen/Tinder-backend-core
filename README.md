@@ -1,4 +1,4 @@
-# 💘 Tinder Clone Backend (Node.js) 
+# 💘 Tinder Backend (Node.js) 
  
  A scalable backend for a Tinder-like application built using **Node.js, Express, and MongoDB**. 
  This project implements authentication, user profiles, swiping, matching logic, and a discover feed. 
