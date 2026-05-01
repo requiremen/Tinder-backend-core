@@ -190,7 +190,7 @@
  
  ## 📌 Author 
  
- Built by **[Your Name]** 
+ Built by Akshat Rastogi
  
  --- 
  
